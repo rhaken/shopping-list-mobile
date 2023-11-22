@@ -1,4 +1,5 @@
 Link Public APP Center[https://install.appcenter.ms/orgs/tutorial-pbp-rhaken/apps/shopping-list/distribution_groups/public]
+[![Build status](https://build.appcenter.ms/v0.1/apps/7a3a274a-4900-4197-8e3d-9634b72da38a/branches/main/badge)](https://appcenter.ms)
 # shopping_list
 
 A new Flutter project.
